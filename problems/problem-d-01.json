@@ -1,0 +1,49 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Samantha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Jordan"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Youssef"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Youssef",
+            "object": "Brian"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Samantha",
+            "result-1": "A",
+            "person-2": "Jordan",
+            "result-2": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Samantha",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        }
+    ]
+}

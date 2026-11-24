@@ -1,0 +1,86 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Sam"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Amanda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Nora"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Amanda"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Noel",
+            "result-1": "B",
+            "person-2": "Amanda",
+            "result-2": "B"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Maria",
+            "result-1": "B",
+            "person-2": "Lindsay",
+            "result-2": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Nora",
+            "person-2": "Ahmed",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Maria",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sam"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Nora"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        }
+    ]
+}

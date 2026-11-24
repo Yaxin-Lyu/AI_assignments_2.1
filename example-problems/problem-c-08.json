@@ -1,0 +1,39 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Linda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Linda"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Ava",
+            "person-2": "Linda",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        }
+    ]
+}

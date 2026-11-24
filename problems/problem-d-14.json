@@ -1,0 +1,37 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Calvin"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Prisha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Calvin",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lyn"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

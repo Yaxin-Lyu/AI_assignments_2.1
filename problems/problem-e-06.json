@@ -1,0 +1,67 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Dana"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Nora"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Ira"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Leslie",
+            "result-1": "A",
+            "person-2": "Mehmet",
+            "result-2": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Ira",
+            "person-2": "Dana",
+            "result": "AB"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Dana",
+            "result-1": "AB",
+            "person-2": "Nora",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Nora"
+        }
+    ]
+}

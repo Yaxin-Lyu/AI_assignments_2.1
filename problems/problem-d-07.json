@@ -1,0 +1,60 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Brian"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Prisha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Youssef"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Dana"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Prisha",
+            "result-1": "B",
+            "person-2": "Dana",
+            "result-2": "AB"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Maria",
+            "result-1": "AB",
+            "person-2": "Brian",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Brian"
+        }
+    ]
+}

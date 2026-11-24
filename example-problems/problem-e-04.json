@@ -1,0 +1,38 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Noel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Rory"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Agnieszka"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Rory",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Omar"
+        }
+    ]
+}

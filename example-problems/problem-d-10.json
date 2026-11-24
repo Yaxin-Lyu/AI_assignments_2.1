@@ -1,0 +1,46 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Youssef",
+            "object": "Sasha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Dana"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Youssef",
+            "result-1": "A",
+            "person-2": "Dana",
+            "result-2": "A"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Youssef",
+            "result-1": "A",
+            "person-2": "Sasha",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        }
+    ]
+}

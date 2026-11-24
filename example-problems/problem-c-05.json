@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Yufei"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Maria"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Leslie"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Maria",
+            "person-2": "Yufei",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        }
+    ]
+}

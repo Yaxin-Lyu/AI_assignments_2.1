@@ -1,0 +1,60 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Sam"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Youssef",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Prisha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Ira",
+            "result-1": "A",
+            "person-2": "Sam",
+            "result-2": "A"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Ira",
+            "result-1": "A",
+            "person-2": "Youssef",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ava"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        }
+    ]
+}

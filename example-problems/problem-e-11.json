@@ -1,0 +1,49 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Omar"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Dana"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Ayansh"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ayansh",
+            "result": "AB"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Zeinab",
+            "result": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Omar",
+            "person-2": "Sasha",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Nora"
+        }
+    ]
+}

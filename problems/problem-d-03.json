@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Ava"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Kim"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Leslie",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ava"
+        }
+    ]
+}

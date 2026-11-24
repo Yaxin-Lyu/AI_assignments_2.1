@@ -1,0 +1,50 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Dana"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Maria"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Sam"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Lindsay",
+            "person-2": "Leslie",
+            "result": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Sam",
+            "person-2": "Lindsay",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Zeinab"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Sasha",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        }
+    ]
+}

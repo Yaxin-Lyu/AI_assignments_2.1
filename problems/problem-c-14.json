@@ -1,0 +1,48 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Maria"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Maria",
+            "result": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Omar",
+            "person-2": "Mehmet",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Omar"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Ava"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Noel"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Muhammed",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Ava",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Nora"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Linda"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Dana",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

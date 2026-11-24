@@ -1,0 +1,40 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Sasha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Linda"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Noel",
+            "result-1": "A",
+            "person-2": "Dana",
+            "result-2": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        }
+    ]
+}

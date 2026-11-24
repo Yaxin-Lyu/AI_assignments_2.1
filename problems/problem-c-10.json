@@ -1,0 +1,58 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Dana"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Yufei"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ayansh",
+            "result": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Kim",
+            "person-2": "Calvin",
+            "result": "AB"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Dana",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

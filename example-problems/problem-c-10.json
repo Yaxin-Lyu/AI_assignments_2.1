@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Jordan"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Ava"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Jordan"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ava",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        }
+    ]
+}

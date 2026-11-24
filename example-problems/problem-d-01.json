@@ -1,0 +1,35 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Ayansh"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Ahmed",
+            "result-1": "O",
+            "person-2": "Ayansh",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ahmed"
+        }
+    ]
+}

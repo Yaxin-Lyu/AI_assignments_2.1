@@ -1,0 +1,28 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Noel"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Rory",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        }
+    ]
+}

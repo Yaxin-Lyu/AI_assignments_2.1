@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Nora"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Youssef"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Youssef",
+            "person-2": "Calvin",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        }
+    ]
+}

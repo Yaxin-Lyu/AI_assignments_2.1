@@ -1,0 +1,44 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Lyn"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Jordan"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Lindsay"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Jordan",
+            "person-2": "Lyn",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Lindsay",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lyn"
+        }
+    ]
+}

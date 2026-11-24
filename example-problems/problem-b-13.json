@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Brian"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Brian"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Rory"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Sam"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Rory",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sam"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Ava"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ava",
+            "result": "A"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Kim",
+            "person-2": "Rory",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

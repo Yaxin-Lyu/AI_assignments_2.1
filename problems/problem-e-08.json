@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Amanda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Amanda",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Omar"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Ayansh"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Muhammed",
+            "person-2": "Amanda",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Amanda"
+        }
+    ]
+}

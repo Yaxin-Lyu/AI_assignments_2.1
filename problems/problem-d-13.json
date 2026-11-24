@@ -1,0 +1,57 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Sasha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Lyn"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Youssef"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Lindsay",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Sasha",
+            "result": "AB"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Mehmet",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ayansh"
+        }
+    ]
+}

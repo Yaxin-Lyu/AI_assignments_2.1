@@ -1,0 +1,51 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Rory"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Lindsay"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Mehmet",
+            "result-1": "B",
+            "person-2": "Rory",
+            "result-2": "AB"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Rory",
+            "result-1": "AB",
+            "person-2": "Sasha",
+            "result-2": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        }
+    ]
+}

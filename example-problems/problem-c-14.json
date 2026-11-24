@@ -1,0 +1,39 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Brian"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Brian"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Brian"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Mehmet"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Mehmet",
+            "person-2": "Maria",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Brian"
+        }
+    ]
+}

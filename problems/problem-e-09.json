@@ -1,0 +1,54 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Maria"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Yufei"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Kim"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Yufei",
+            "result": "B"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Leslie",
+            "person-2": "Omar",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        }
+    ]
+}

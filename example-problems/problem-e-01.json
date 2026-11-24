@@ -1,0 +1,45 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Amanda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Dana"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Amanda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Lindsay"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Dana",
+            "person-2": "Amanda",
+            "result": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Prisha",
+            "person-2": "Amanda",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        }
+    ]
+}

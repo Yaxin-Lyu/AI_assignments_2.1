@@ -1,0 +1,61 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Nora"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Jordan"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Daniel"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ayansh",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Nora",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Leslie",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Maria"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Prisha",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        }
+    ]
+}

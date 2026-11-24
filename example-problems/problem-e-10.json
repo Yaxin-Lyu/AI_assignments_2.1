@@ -1,0 +1,76 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Rory"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Linda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Sasha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Amanda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Maria"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Ahmed"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Maria",
+            "result": "A"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Amanda",
+            "person-2": "Rory",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ahmed"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        }
+    ]
+}

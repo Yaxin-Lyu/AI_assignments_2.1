@@ -1,0 +1,52 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Youssef"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Mehmet"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Mehmet",
+            "result-1": "AB",
+            "person-2": "Linda",
+            "result-2": "AB"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Linda",
+            "result-1": "AB",
+            "person-2": "Brian",
+            "result-2": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        }
+    ]
+}

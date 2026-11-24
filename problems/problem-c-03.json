@@ -1,0 +1,64 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Dana"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Lindsay"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Ahmed",
+            "person-2": "Rory",
+            "result": "A"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Omar",
+            "person-2": "Muhammed",
+            "result": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Ahmed",
+            "person-2": "Dana",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Omar"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        }
+    ]
+}

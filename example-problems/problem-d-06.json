@@ -1,0 +1,46 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Kim",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Kim",
+            "object": "Dana"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Leslie",
+            "result-1": "A",
+            "person-2": "Sam",
+            "result-2": "AB"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Leslie",
+            "result-1": "A",
+            "person-2": "Kim",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Sam"
+        }
+    ]
+}

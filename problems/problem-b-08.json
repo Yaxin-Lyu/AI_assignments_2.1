@@ -1,0 +1,37 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Dana"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Agnieszka"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Dana",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Nora"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

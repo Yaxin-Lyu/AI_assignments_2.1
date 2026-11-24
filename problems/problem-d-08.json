@@ -1,0 +1,51 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Yufei"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Zeinab",
+            "result-1": "O",
+            "person-2": "Lindsay",
+            "result-2": "A"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Yufei",
+            "result-1": "O",
+            "person-2": "Lindsay",
+            "result-2": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Yufei"
+        }
+    ]
+}

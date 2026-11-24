@@ -1,0 +1,38 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Brian"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Brian"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Calvin",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        }
+    ]
+}

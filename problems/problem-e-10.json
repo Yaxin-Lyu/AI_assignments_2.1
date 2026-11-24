@@ -1,0 +1,49 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Noel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Yufei"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Yufei",
+            "person-2": "Prisha",
+            "result": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Zeinab",
+            "person-2": "Yufei",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Yufei"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

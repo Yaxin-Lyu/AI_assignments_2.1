@@ -1,0 +1,54 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Sasha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Omar"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Brian"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Zeinab"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Leslie",
+            "person-2": "Linda",
+            "result": "A"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Brian",
+            "person-2": "Linda",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Brian"
+        }
+    ]
+}

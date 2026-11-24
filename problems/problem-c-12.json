@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Sasha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Sasha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Linda"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Lindsay",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        }
+    ]
+}

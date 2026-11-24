@@ -1,0 +1,51 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Dana"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Ira"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Yufei"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Linda"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ahmed",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        }
+    ]
+}

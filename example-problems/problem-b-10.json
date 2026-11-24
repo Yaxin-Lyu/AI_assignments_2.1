@@ -1,0 +1,38 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Ira"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Maria"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Yufei"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Muhammed",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        }
+    ]
+}

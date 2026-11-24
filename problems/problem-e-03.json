@@ -1,0 +1,74 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Linda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Ava"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Ahmed",
+            "result-1": "A",
+            "person-2": "Noel",
+            "result-2": "O"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Ahmed",
+            "result-1": "A",
+            "person-2": "Lindsay",
+            "result-2": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Ava",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Noel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ahmed"
+        }
+    ]
+}

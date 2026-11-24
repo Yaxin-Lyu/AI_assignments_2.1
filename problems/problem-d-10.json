@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Sam"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Samantha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Sam",
+            "result-1": "A",
+            "person-2": "Samantha",
+            "result-2": "A"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Samantha",
+            "result-1": "A",
+            "person-2": "Noel",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Noel"
+        }
+    ]
+}

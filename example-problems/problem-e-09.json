@@ -1,0 +1,59 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Sam"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sam",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Rory"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Jordan"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Sasha",
+            "result-1": "B",
+            "person-2": "Ira",
+            "result-2": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ira"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        }
+    ]
+}

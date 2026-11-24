@@ -1,0 +1,28 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Mehmet"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Yufei",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        }
+    ]
+}

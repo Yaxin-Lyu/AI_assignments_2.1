@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Kim",
+            "object": "Daniel"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Leslie",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Daniel",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

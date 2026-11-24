@@ -1,0 +1,50 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Rory"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Lyn"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Zeinab"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Zeinab",
+            "person-2": "Rory",
+            "result": "B"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Lyn",
+            "result-1": "B",
+            "person-2": "Zeinab",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ava"
+        }
+    ]
+}

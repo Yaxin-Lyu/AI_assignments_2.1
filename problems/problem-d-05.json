@@ -1,0 +1,38 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Daniel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Daniel"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Daniel",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Dana"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Samantha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Prisha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Youssef"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Prisha",
+            "result-1": "B",
+            "person-2": "Dana",
+            "result-2": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Prisha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        }
+    ]
+}

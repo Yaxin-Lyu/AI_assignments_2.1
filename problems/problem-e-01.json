@@ -1,0 +1,69 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Daniel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Sam"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Ira"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Rory"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Lindsay"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Rory",
+            "result": "AB"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Sam",
+            "person-2": "Ira",
+            "result": "A"
+        },
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Leslie",
+            "result-1": "A",
+            "person-2": "Ayansh",
+            "result-2": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sam"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

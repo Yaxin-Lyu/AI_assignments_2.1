@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Ira"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Ira"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Omar"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Brian",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Ira",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Omar"
+        }
+    ]
+}

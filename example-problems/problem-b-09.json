@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Brian"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Zeinab"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Brian",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ayansh"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Agnieszka"
+        }
+    ]
+}

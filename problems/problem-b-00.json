@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Kim",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Kim",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Zeinab"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Muhammed",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        }
+    ]
+}

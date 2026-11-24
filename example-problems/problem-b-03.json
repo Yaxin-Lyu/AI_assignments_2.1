@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Maria"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Sam"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Maria",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Sam"
+        }
+    ]
+}

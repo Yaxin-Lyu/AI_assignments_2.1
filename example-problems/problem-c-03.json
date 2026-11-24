@@ -1,0 +1,53 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Daniel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Noel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Youssef"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Omar",
+            "result": "A"
+        },
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Youssef",
+            "person-2": "Noel",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Calvin"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Lyn"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Youssef"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Youssef"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Muhammed",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        }
+    ]
+}

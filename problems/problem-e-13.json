@@ -1,0 +1,48 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Rory"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Samantha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Samantha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Dana"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Rory",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ahmed"
+        }
+    ]
+}

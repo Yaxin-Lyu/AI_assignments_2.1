@@ -1,0 +1,54 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Jordan"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Ira"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "mixed-bloodtype-test",
+            "person-1": "Ahmed",
+            "person-2": "Omar",
+            "result": "AB"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Ava",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ahmed"
+        }
+    ]
+}

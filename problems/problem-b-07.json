@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Jordan"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Maria"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Lyn"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Lyn"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Jordan"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Maria",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Agnieszka"
+        }
+    ]
+}

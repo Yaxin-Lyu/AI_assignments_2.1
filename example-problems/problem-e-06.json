@@ -1,0 +1,54 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Rory"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Jordan"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Samantha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Prisha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Lindsay"
+        }
+    ],
+    "country": "South Wumponia",
+    "test-results": [
+        {
+            "type": "pair-bloodtype-test",
+            "person-1": "Samantha",
+            "result-1": "B",
+            "person-2": "Prisha",
+            "result-2": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Prisha",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Samantha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        }
+    ]
+}
